@@ -22,6 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pandey-prakhar&show_icons=true&locale=en&layout=compact" alt="pandey-prakhar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pandey-prakhar&show_icons=true&locale=en" alt="pandey-prakhar" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pandey-prakhar&" alt="pandey-prakhar" /></p>
