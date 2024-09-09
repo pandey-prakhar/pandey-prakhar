@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Backend Development**
 
-- 📫 How to reach me **prakharpandey1198@gmail.com**
+- 📫 You can reach me at **prakharpandey1198@gmail.com**
 
 - ⚡ Fun fact **There’s no place like 127.0.0.1**
 
