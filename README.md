@@ -1,20 +1,15 @@
 <div align="center">
 
 <!-- ============ ANIMATED HEADER BANNER ============ -->
-<a href="https://github.com/pandey-prakhar">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prakhar%20Pandey&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20Engineer%20%7C%20Problem%20Solver&descSize=18&descAlignY=60&descAlign=50" alt="header" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prakhar%20Pandey&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20Engineer%20%7C%20Problem%20Solver&descSize=18&descAlignY=60&descAlign=50" alt="header" />
 
 <!-- ============ TYPING ANIMATION ============ -->
-<a href="https://github.com/pandey-prakhar">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+SQL+%7C+DSA;Building+Scalable+Backend+Solutions;Turning+coffee+into+production+code+%E2%98%95;Always+learning%2C+always+building" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+SQL+%7C+DSA;Building+Scalable+Backend+Solutions;Turning+coffee+into+production+code+%E2%98%95;Always+learning%2C+always+building" alt="Typing SVG" />
 
 <!-- ============ PROFILE STATS BADGES ============ -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=pandey-prakhar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-0e75b6?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-success?style=for-the-badge" alt="Open to work" />
 </p>
 
 </div>
@@ -53,13 +48,13 @@ contact: prakharpandey1198@gmail.com
 <div align="center">
 <img src="https://i.giphy.com/Y4ak9Ki2GZCbJxAnJD.webp" width="100%" alt="Coding GIF" />
 <br /><br />
-<a href="mailto:prakharpandey1198@gmail.com" target="_blank" rel="noopener noreferrer">
+<a href="mailto:prakharpandey1198@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://linkedin.com/in/iam-prakhar" target="_blank" rel="noopener noreferrer">
+<a href="https://linkedin.com/in/iam-prakhar">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://github.com/pandey-prakhar" target="_blank" rel="noopener noreferrer">
+<a href="https://github.com/pandey-prakhar">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 </div>
@@ -106,20 +101,27 @@ contact: prakharpandey1198@gmail.com
 ## 📊 GitHub Analytics
 
 <a href="https://github.com/pandey-prakhar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pandey-prakhar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=pandey-prakhar&theme=tokyonight&hide_border=true&background=0D1117&stroke=0e75b6&ring=0e75b6&fire=FF6B35&currStreakLabel=0e75b6" alt="GitHub Streak" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pandey-prakhar&theme=tokyonight" alt="GitHub Stats" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pandey-prakhar&theme=tokyonight" alt="Profile Details" />
 </a>
 
 <br /><br />
 
 <a href="https://github.com/pandey-prakhar">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandey-prakhar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0e75b6&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pandey-prakhar&theme=tokyonight" alt="Top Languages by Commits" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pandey-prakhar&theme=tokyonight" alt="Top Languages by Repos" />
 </a>
 
 <br /><br />
 
 <a href="https://github.com/pandey-prakhar">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pandey-prakhar&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0e75b6&line=0e75b6&point=ffffff&area=true&area_color=0e75b6" alt="Activity Graph" />
+  <img src="https://streak-stats.demolab.com?user=pandey-prakhar&theme=tokyonight&hide_border=true&background=1A1B27&stroke=0e75b6&ring=0e75b6&fire=FF6B35&currStreakLabel=0e75b6" alt="GitHub Streak" />
+</a>
+
+<br /><br />
+
+<a href="https://github.com/pandey-prakhar">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pandey-prakhar&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=0e75b6&line=0e75b6&point=ffffff&area=true&area_color=0e75b6" alt="Activity Graph" />
 </a>
 
 </div>
@@ -131,9 +133,7 @@ contact: prakharpandey1198@gmail.com
 
 ## 💭 Dev Quote
 
-<a href="https://github.com/pandey-prakhar">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</a>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 
 </div>
 
@@ -146,15 +146,15 @@ contact: prakharpandey1198@gmail.com
 
 <p>I'm always open to interesting conversations, collaborations, and opportunities!</p>
 
-<a href="https://linkedin.com/in/iam-prakhar" target="_blank" rel="noopener noreferrer">
+<a href="https://linkedin.com/in/iam-prakhar">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="mailto:prakharpandey1198@gmail.com" target="_blank" rel="noopener noreferrer">
+<a href="mailto:prakharpandey1198@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 &nbsp;
-<a href="https://github.com/pandey-prakhar" target="_blank" rel="noopener noreferrer">
+<a href="https://github.com/pandey-prakhar">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
