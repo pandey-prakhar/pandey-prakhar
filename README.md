@@ -118,12 +118,6 @@ contact: prakharpandey1198@gmail.com
   <img src="https://streak-stats.demolab.com?user=pandey-prakhar&theme=tokyonight&hide_border=true&background=1A1B27&stroke=0e75b6&ring=0e75b6&fire=FF6B35&currStreakLabel=0e75b6" alt="GitHub Streak" />
 </a>
 
-<br /><br />
-
-<a href="https://github.com/pandey-prakhar">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pandey-prakhar&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=0e75b6&line=0e75b6&point=ffffff&area=true&area_color=0e75b6" alt="Activity Graph" />
-</a>
-
 </div>
 
 <br />
