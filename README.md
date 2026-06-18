@@ -1,166 +1,27 @@
-<div align="center">
+# Hi, I'm Prakhar Pandey 👋
 
-<!-- ============ ANIMATED HEADER BANNER ============ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prakhar%20Pandey&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20Engineer%20%7C%20Problem%20Solver&descSize=18&descAlignY=60&descAlign=50" alt="header" />
+**Software Developer** — backend engineering with a growing focus on AI/ML.
 
-<!-- ============ TYPING ANIMATION ============ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+SQL+%7C+DSA;Building+Scalable+Backend+Solutions;Turning+coffee+into+production+code+%E2%98%95;Always+learning%2C+always+building" alt="Typing SVG" />
+- 🔧 I build scalable backend services with **Java** & **Spring Boot**
+- 🤖 Currently learning **Machine Learning**, **LLMs**, and **AI app development**
+- 💬 Ask me about Java, REST APIs, System Design & DSA
+- 📫 prakharpandey1198@gmail.com
 
-<!-- ============ PROFILE STATS BADGES ============ -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=pandey-prakhar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-0e75b6?style=for-the-badge" alt="Focus" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/iam-prakhar)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pandey-prakhar)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prakharpandey1198@gmail.com)
 
-</div>
+### 🛠️ Tech Stack
 
-<br />
+**Languages** &nbsp; ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<!-- ============ ABOUT ME SECTION ============ -->
-<table>
-<tr>
-<td width="60%" valign="top">
+**Backend** &nbsp; ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![REST](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=postman&logoColor=white)
 
-## 🚀 About Me
+**AI / ML** *(learning)* &nbsp; ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-```yaml
-name: Prakhar Pandey
-role: Software Developer
-focus: Backend Development
-currently_learning:
-  - Spring Boot
-  - React.js
-expertise:
-  - Java
-  - SQL
-  - Data Structures & Algorithms
-contact: prakharpandey1198@gmail.com
-```
+**Databases & Tools** &nbsp; ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-- 🔭 **Building** scalable backend solutions with clean architecture
-- 🌱 **Currently mastering** Spring Boot ecosystem & React
-- 💬 **Ask me about** Java, REST APIs, System Design, DSA
-- 📫 **Reach me at** prakharpandey1198@gmail.com
+### 📊 Activity
 
-</td>
-<td width="40%" valign="top">
-
-<div align="center">
-<img src="https://i.giphy.com/Y4ak9Ki2GZCbJxAnJD.webp" width="100%" alt="Coding GIF" />
-<br /><br />
-<a href="mailto:prakharpandey1198@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://linkedin.com/in/iam-prakhar">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/pandey-prakhar">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-</div>
-
-</td>
-</tr>
-</table>
-
-<br />
-
-<!-- ============ TECH STACK SECTION ============ -->
-<div align="center">
-
-## 🛠️ Tech Stack & Tools
-
-<table>
-<tr>
-<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" /><br><sub><b>Java</b></sub></td>
-<td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="48" height="48" alt="Spring" /><br><sub><b>Spring</b></sub></td>
-<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br><sub><b>Python</b></sub></td>
-<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br><sub><b>JavaScript</b></sub></td>
-<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" /><br><sub><b>React</b></sub></td>
-<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" /><br><sub><b>MySQL</b></sub></td>
-<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" /><br><sub><b>PostgreSQL</b></sub></td>
-</tr>
-<tr>
-<td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" height="48" alt="SQLite" /><br><sub><b>SQLite</b></sub></td>
-<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="48" alt="AWS" /><br><sub><b>AWS</b></sub></td>
-<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" /><br><sub><b>Linux</b></sub></td>
-<td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" /><br><sub><b>Git</b></sub></td>
-<td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" /><br><sub><b>Postman</b></sub></td>
-<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="48" height="48" alt="IntelliJ" /><br><sub><b>IntelliJ</b></sub></td>
-<td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" /><br><sub><b>VS Code</b></sub></td>
-</tr>
-</table>
-
-</div>
-
-<br />
-
-<!-- ============ GITHUB STATS SECTION ============ -->
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<a href="https://github.com/pandey-prakhar">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pandey-prakhar&theme=tokyonight" alt="GitHub Stats" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pandey-prakhar&theme=tokyonight" alt="Profile Details" />
-</a>
-
-<br /><br />
-
-<a href="https://github.com/pandey-prakhar">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pandey-prakhar&theme=tokyonight" alt="Top Languages by Commits" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pandey-prakhar&theme=tokyonight" alt="Top Languages by Repos" />
-</a>
-
-<br /><br />
-
-<a href="https://github.com/pandey-prakhar">
-  <img src="https://streak-stats.demolab.com?user=pandey-prakhar&theme=tokyonight&hide_border=true&background=1A1B27&stroke=0e75b6&ring=0e75b6&fire=FF6B35&currStreakLabel=0e75b6" alt="GitHub Streak" />
-</a>
-
-</div>
-
-<br />
-
-<!-- ============ QUOTE SECTION ============ -->
-<div align="center">
-
-## 💭 Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-
-</div>
-
-<br />
-
-<!-- ============ CONNECT SECTION ============ -->
-<div align="center">
-
-## 🤝 Let's Connect
-
-<p>I'm always open to interesting conversations, collaborations, and opportunities!</p>
-
-<a href="https://linkedin.com/in/iam-prakhar">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:prakharpandey1198@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-&nbsp;
-<a href="https://github.com/pandey-prakhar">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-</div>
-
-<br />
-
-<!-- ============ FOOTER ============ -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
-
-<sub>⭐ From <a href="https://github.com/pandey-prakhar">Prakhar Pandey</a> — Thanks for visiting!</sub>
-
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=pandey-prakhar&show_icons=true&hide_border=true&theme=graywhite&hide_title=true)
+![Streak](https://streak-stats.demolab.com?user=pandey-prakhar&hide_border=true&theme=graywhite)
