@@ -24,4 +24,3 @@
 ### 📊 Activity
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=pandey-prakhar&show_icons=true&hide_border=true&theme=graywhite&hide_title=true)
-![Streak](https://streak-stats.demolab.com?user=pandey-prakhar&hide_border=true&theme=graywhite)
